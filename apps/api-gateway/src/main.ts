@@ -4,8 +4,6 @@ import proxy from 'express-http-proxy';
 import rateLimit, { ipKeyGenerator } from 'express-rate-limit';
 import morgan from 'morgan';
 import cookieParser from 'cookie-parser';
-import axios from 'axios';  
- import swaggerUi from 'swagger-ui-express';
 
 import * as path from 'path';
 
