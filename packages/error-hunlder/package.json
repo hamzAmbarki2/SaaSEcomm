@@ -1,0 +1,9 @@
+{
+  "name": "@saa-seshop/error-hunlder",
+  "version": "0.0.1",
+  "main": "index.ts",
+  "types": "index.ts",
+  "dependencies": {
+    "@types/node": "^20.0.0"
+  }
+}
